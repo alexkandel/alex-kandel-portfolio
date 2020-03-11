@@ -44,6 +44,7 @@ header {
   height: 800px;
   margin: 0 auto;
   background-image: url('../img/background.png');
+  background-attachment: fixed;
 }
 
 header nav {
